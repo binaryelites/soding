@@ -7,7 +7,7 @@ SQLite based application
 1. Linux : pull the application in /var/www/html/
 2. Windows - xampp or wamp : pull the application in htdocs or www folder
 
-Browse https://localhost/soding/
+Browse http://localhost/soding/
 
 1. Task List - Default Page
 2. Task Add/Edit - You can create or edit new task. Edit option can be found in task list page.
