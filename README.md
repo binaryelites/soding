@@ -7,7 +7,7 @@
 2. Windows - xampp or wamp : pull the application in htdocs or www folder
 
 
-Browse https://soding-arif.herokuapp.com/
+Browse https://arif-soding.herokuapp.com/
 
 1. Task List
 2. Task Add/Edit
