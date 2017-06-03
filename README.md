@@ -7,4 +7,11 @@
 2. Windows - xampp or wamp : pull the application in htdocs or www folder
 
 
-Browse http://localhost/soding/
+Browse https://soding-arif.herokuapp.com/
+
+1. Task List
+2. Task Add/Edit
+3. Task Delete
+
+https://git.heroku.com/soding-arif.git
+

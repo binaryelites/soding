@@ -1,5 +1,5 @@
 <h1>
-    Add Task
+    Task Form
     <a href="<?=base_url()."task/"?>" style="float:right">Back To Task List</a>
 </h1>
 
