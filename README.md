@@ -1,10 +1,10 @@
 # Soding Task App
 
-SQLite based application
-Framework used Codeigniter 3.1.4
-Controllers used Task
-Models used Task_Model
-Views used site_template.php, list.php, form.php
+* SQLite based application
+* Framework used Codeigniter 3.1.4
+* Controllers used Task
+* Models used Task_Model
+* Views used site_template.php, list.php, form.php
 
 ## Installation Guide
 
